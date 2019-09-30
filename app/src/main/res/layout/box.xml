@@ -110,4 +110,5 @@
         app:layout_constraintStart_toEndOf="@+id/textView2"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/king" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
